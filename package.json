@@ -1,18 +1,25 @@
 {
-    "name": "Coaching App",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-      "test": "jest"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "inquirer": "^7.0.3",
-      "jest": "^24.9.0"
-    }
+  "name": "coach-lobbo",
+  "version": "1.0.0",
+  "description": "This is a coaching blog website",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unis434/Coach-Lobbo.git"
+  },
+  "author": "Future Programmers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unis434/Coach-Lobbo/issues"
+  },
+  "homepage": "https://github.com/Unis434/Coach-Lobbo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
   }
-  
-  
+}
